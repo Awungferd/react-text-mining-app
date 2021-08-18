@@ -1,10 +1,12 @@
 
 import './App.css';
+import SearchEntries from './components/SearchEntries';
+
 
 function App() {
-  return (
-    <h1>WE WERE SOLDIERS YOUNG AND OLD</h1>
-  );
+ return(
+   <SearchEntries/>
+ )
 }
 
 export default App;

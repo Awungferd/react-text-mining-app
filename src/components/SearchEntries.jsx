@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import { events } from './dataBank';
 import { Button, ListGroup,ListGroupItem,Card } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 export default function SearchEntries() {
